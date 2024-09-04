@@ -15,11 +15,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
-  ### Niels van Veen:
-  Sanne 't Hooft (vervangen door jouw naam)
+  ### Auteur:
+  Niels van Veen
 
-  #### Je blauw:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  #### Je startniveau:
+  Blauw
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -50,7 +50,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  
 </details>
 
-
+## Opdracht lettertype (week 1)
+Tijdens de opdracht van de lettertypes kwam ik erachter dat ik niet meer alles weet van vorig jaar. Ik moest bijvoorbeeld vaak dingen vragen aan ChatGPT. Het is me uiteindeijk wel redelijk gelukt vind ik: ik heb er 2 goed na kunnen maken.
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
