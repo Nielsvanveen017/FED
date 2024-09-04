@@ -40,6 +40,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
+
+  ### DIT MOET IK NOG AFMAKEN
+
   hier de naam van de pagina  
   
   <img src="readme-images/foto-homepage.png" width="375px" alt="omschrijving van de pagina">
@@ -53,13 +56,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht lettertype (week 1)
 Tijdens de opdracht van de lettertypes kwam ik erachter dat ik niet meer alles weet van vorig jaar. Ik moest bijvoorbeeld vaak dingen vragen aan ChatGPT. Het is me uiteindeijk wel redelijk gelukt vind ik: ik heb er 2 goed na kunnen maken.
 
+## Toegankelijkheidstest tijdens de les (week 1)
+
+## Brillen tijdens de les
+Tijdens de les kregen wij brillen uitgedeeld. Met deze brillen konden wij het ervaren hoe het is als je minder goed kan zien. Dit best wel gek om te ervaren, want bij sommige brillen kon je echt nauwelijks wat zien.
+
+## Elastiekjes om je vingers
+Tijdens de les kregen wij elastiekjes om onze vingers en moesten we vervolgens een berichtje typen. Dit was erg lastig. Het is me ook niet gelukt om normaal te kunnen typen. Ik ben bijvoorbeeld meer m'n middelvinger gaan gebruiken tijdens het typen. Na een tijdje ging het wel beter. 
+
 ## Toegankelijkheidstest 1/2 (week 1)
+Tijdens de les moesten wij met behulp van de voice over onze gekozen website op toegankelijkheid testen. Toen ik de voice over aanzetten kreeg ik in een keer heel veel informatie. Ik snapte ook niet zo goed hoe ik mijn voice over moest bedienen: de voice over las alleen maar het bovenste menu van m'n mac & de tabs in Google Chrome voor. Ik ben ongeveer 5 minuten aan het 'spelen' geweest met de voice over, en had nog steeds niet door hoe hij precies werkte. Na een tijdje heb ik hulp gevraagd aan Dok. Hij snapte ook niet wat er aan de hand was. Ik heb vervoglens geprobeerd om op een knop te drukken. Hier reageerde de voice over ook niet op. Ik heb vervolgens de website van Rijksoverheid opgezocht (omdat ik wist dat deze wel werkt met een voice over). Dit werkte inderdaad goed met de voice over. Ik ben toen teruggegaan naar de website van tomorrowland gegaan. Na een tijdje ben ik de tekst links onder in mijn scherm van de voice over gaan lezen. Hierdoor kreeg ik de voice over wat makkelijker door. Later ben ik erachter gekomen dat het ook deels aan de website van Tomorrowland lag. 
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  * Geen duidelijke hierarchie, de voice over begon met het voorlezen van drie achtergronden
+  * De afbeelding in de header bestaat volledig uit een link, in deze link zit nog een knop (dit was voor de voice over verwarrend)
+  * De afbeeldingen op de website hebben geen alt tekst
+  * List 5 items en geen navigatie menu
+  * De afbeeldingen in de calender bestaan ook uit links, dit is echter wel goed beschreven omdat er geen knop in de card zit
+  * Er staat een pop up linksonderaan de website, deze wordt door de screenreader niet direct voorgelezen terwijl dit wel belangrijk is
+  * De alternatieve tekst van bepaalde afbeeldingen zijn niet duidelijk genoeg
+  
+
 
 </details>
 
