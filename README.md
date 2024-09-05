@@ -64,7 +64,7 @@ Tijdens de les kregen wij brillen uitgedeeld. Met deze brillen konden wij het er
 ## Elastiekjes om je vingers
 Tijdens de les kregen wij elastiekjes om onze vingers en moesten we vervolgens een berichtje typen. Dit was erg lastig. Het is me ook niet gelukt om normaal te kunnen typen. Ik ben bijvoorbeeld meer m'n middelvinger gaan gebruiken tijdens het typen. Na een tijdje ging het wel beter. 
 
-## Toegankelijkheidstest 1/2 (week 1)
+## Toegankelijkheidstest 1 (week 1)
 Tijdens de les moesten wij met behulp van de voice over onze gekozen website op toegankelijkheid testen. Toen ik de voice over aanzetten kreeg ik in een keer heel veel informatie. Ik snapte ook niet zo goed hoe ik mijn voice over moest bedienen: de voice over las alleen maar het bovenste menu van m'n mac & de tabs in Google Chrome voor. Ik ben ongeveer 5 minuten aan het 'spelen' geweest met de voice over, en had nog steeds niet door hoe hij precies werkte. Na een tijdje heb ik hulp gevraagd aan Dok. Hij snapte ook niet wat er aan de hand was. Ik heb vervoglens geprobeerd om op een knop te drukken. Hier reageerde de voice over ook niet op. Ik heb vervolgens de website van Rijksoverheid opgezocht (omdat ik wist dat deze wel werkt met een voice over). Dit werkte inderdaad goed met de voice over. Ik ben toen teruggegaan naar de website van tomorrowland gegaan. Na een tijdje ben ik de tekst links onder in mijn scherm van de voice over gaan lezen. Hierdoor kreeg ik de voice over wat makkelijker door. Later ben ik erachter gekomen dat het ook deels aan de website van Tomorrowland lag. 
 
 <details>
@@ -80,6 +80,30 @@ Tijdens de les moesten wij met behulp van de voice over onze gekozen website op 
   * Er staat een pop up linksonderaan de website, deze wordt door de screenreader niet direct voorgelezen terwijl dit wel belangrijk is
   * De alternatieve tekst van bepaalde afbeeldingen zijn niet duidelijk genoeg
   
+## Toegankelijkheidstest 2 (week 1)
+### Bevindingen
+  
+  ## Inhoud ##
+  * De knoppen hebben niet altijd een duidelijke inhoud/label --> "simulate package", "Info" en "Meer"
+  * De tekst is over het algemeen gecentreerd, dit is volgens de checklist moeilijker te lezen
+  
+    ## Globale code ##
+    * Er is bij de huidige website niet vermeld in welke taal de website is geschreven --> lang="eng" toevoegen in HTML
+    * Er wordt een afsluitende slash gebruikt op lege elementen, dit heeft volgens de validator geen zin
+    * Er wordt in de huidige website over het algemeen gebruik gemaakt van EM in plaats van pixel, waardoor de website makkelijk te vergroten is. Dit gebeurt echter nog niet op alle plaatsen.
+    * In de huidige website wordt er niet gebruik gemaakt van landmarkelementen. Zo ontbreekt het MAIN element
+    * Op deze website wordt niet gebruikt gemaakt van autofocus
+    * De website geeft op dit moment de gebruikte iframes geen duidelijke naam
+    * Het is niet mogelijk om met tab op de knop in de hero te drukken
+    * De active state die wordt gebruikt tijdens het navigeren met tab is duidelijk, maar is niet bij alle elementen aanwezig
+    * De focusvolgorde komt over het algemeen overeen met de visuele lay-out, behalve bij de knop bovenaan de pagina (hero section)
+    * Er wordt niet bij elke afbeelding een duidelijke alt tekst geplaatst
+    * In de huidige website staan er kopteksten die op een duidelijke manier de bijbehorende inhoud introduceren
+    * Er worden geen kopniveaus over geslagen
+    * Er is geen ondertiteling aanwezig bij de video's op de website
+    * Er wordt op de website op dit moment geen gebruik gemaakt van CAPTCHA
+    * Het contrast van de elementen op de website is goed (volgens Google inspector)
+
 
 
 </details>
