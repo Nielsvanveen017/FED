@@ -36,25 +36,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.apple.com/newsroom/
+  https://www.tomorrowland.com/home/  
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-
-  ### DIT MOET IK NOG AFMAKEN
-
-  hier de naam van de pagina  
-  
-  <img src="readme-images/foto-homepage.png" width="375px" alt="omschrijving van de pagina">
+  Tomorrowland home pagina
+  <img src="readme-images/Tomorrow-land-homepage.JPG" width="375px" alt="Screenshot van de homepagina van Tomorrowland waarop alle belangrijke informatie over het festival te zien is">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/klein-scherm.png" width="375px" alt="omschrijving van de pagina">
+  Tomorrow land calender 
+  <img src="readme-images/Tomorrow-land-calender.JPG" width="375px" alt="Screenshot van de website van Tomorrowland waarop de calender van alle geplande activiteiten is te zien">
  
 </details>
 
 ## Opdracht lettertype (week 1)
-Tijdens de opdracht van de lettertypes kwam ik erachter dat ik niet meer alles weet van vorig jaar. Ik moest bijvoorbeeld vaak dingen vragen aan ChatGPT. Het is me uiteindeijk wel redelijk gelukt vind ik: ik heb er 2 goed na kunnen maken.
+Tijdens de opdracht van de lettertypes kwam ik erachter dat ik niet meer alles weet van vorig jaar. Ik moest bijvoorbeeld vaak dingen vragen aan ChatGPT. Zo wist ik niet meer hoe ik een schaduw moest toevoegenHet is me uiteindeijk wel redelijk gelukt vind ik: ik heb er 2 goed na kunnen maken.
 
 ## Toegankelijkheidstest tijdens de les (week 1)
 
@@ -127,7 +123,10 @@ Tijdens de les moesten wij met behulp van de voice over onze gekozen website op 
 </details>
 
 
+## Oefening - Mini-symposium (week 2)
+In week 2 hadden wij een Mini-symposium. Hierin spraken mensen met een beperking over de toegankelijheid van een website. Ik vond dit heel erg interessant. Zo vertelde een vrouw die doof is dat zij vaak gebeld wordt na aanleiding van het invullen van een formulier. Er wordt bijvoorbeeld vaak gevraagd om een telefoonnummer. Als oplossing gaf zij het plaatsen van een checkbox bij het inputfield met de vraag of iemand doof is (zodat er dan alleen om een e-mail gevraagd wordt). Ook gaf de vrouw aan dat er weinig aandacht wordt besteed aan het maken van een goed en duidelijk transcript voor een video. Ook wordt er vaak geen duidelijke alt tekst bij een afbeelding geplaatst. Ze gaf aan dat ze hierdoor niet alle informatie meekrijgt.
 
+Daarnaast sprak ook een blinde man over de toegankelijkheid van websites voor hem. Hij gaf een live demo waarin hij liet zien hoe hij een website bezoekt. Dit was echt bizar om te zien. Hoe snel hij met de screen reader om kon gaan. Ook liet hij zien hoeveel moeite hij heeft met een niet goed gestructureerde website. Hiervan gaf hij een later bijgeprobeerde cookies melding als voorbeeld. Doordat deze later is bijgebouwd, veranderd de structuur waardoor het lastiger wordt voor een screenreader om deze in de juiste volgorde voor te lezen..
 
 
 ## Voortgang 1 (week 2)
